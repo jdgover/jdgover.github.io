@@ -1,0 +1,29 @@
+ /*page styles*/
+ *{
+   background-color: #378D0E;
+ }
+/*header style*/
+header {
+    background-color: #378D0E;
+    color:#B8332F;
+    font-size: 36px;
+    font-family: cursive;
+    text-align: center; 
+    padding: 10px;
+ }
+  /*image style*/
+  .image {
+    padding: 20px;
+ }
+ /*text style*/
+ .text {
+    color:#FAFAFA ;
+    font-size: 24px;
+    font-family: sans-serif;
+    flex: 100%;
+    padding: 5px;
+ }
+/*footer style*/
+footer {
+    font-family:'Times New Roman', Times, serif;
+}
